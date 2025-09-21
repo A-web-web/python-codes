@@ -10,7 +10,7 @@ for i in a:
     else:
         print(i, end='')
 
-print("hello")
+print("hello work")
 
 
 
