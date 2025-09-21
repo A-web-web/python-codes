@@ -10,7 +10,11 @@ for i in a:
     else:
         print(i, end='')
 
+
 print("hello world")
+
+print("hello work")
+
 
 
 
