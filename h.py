@@ -11,9 +11,6 @@ for i in a:
         print(i, end='')
 
 
-print("hello world")
-
-print("hello work")
 
 
 
